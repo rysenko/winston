@@ -13,6 +13,8 @@ docs
 docs/*
 .nyc_output/
 .nyc_output/*
+.idea/
+.idea/*
 coverage/
 coverage/*
 scratch
